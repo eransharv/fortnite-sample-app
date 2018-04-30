@@ -11,7 +11,8 @@ var g_interestedInFeatures = [
   'match',
   'rank',
   'me',
-  'phase'
+  'phase',
+  'location'
 ];
 
 function registerEvents() {
