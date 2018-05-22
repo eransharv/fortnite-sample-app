@@ -11,6 +11,12 @@
     "description": "Game Events Consumer Sample"
   },
   "data": {
+    "game_targeting": {
+      "type": "dedicated",
+      "game_ids": [
+        21216
+      ]
+    },
     "start_window": "index",
     "windows": {
       "index": {
