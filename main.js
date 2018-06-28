@@ -6,13 +6,17 @@
 // features
 var g_interestedInFeatures = [
   'kill',
+  'killed',
+  'killer',
   'revived',
   'death',
   'match',
   'rank',
   'me',
   'phase',
-  'location'
+  'location',
+  'roster',
+  'team'
 ];
 
 function registerEvents() {
