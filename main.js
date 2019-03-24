@@ -17,7 +17,8 @@ var g_interestedInFeatures = [
   'location',
   'roster',
   'team',
-  'items'
+  'items',
+  'counters'
 ];
 
 function registerEvents() {
